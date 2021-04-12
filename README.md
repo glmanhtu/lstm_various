@@ -6,12 +6,12 @@ In train.py
 
 > USE_VARIOUS_LENGTH_DATASET = True
 
-Set this parameter for enable the dataset to generate sequences with various lengths 
+Set this parameter for enabling the dataset to generate sequences with various lengths 
 (padded with zeroes).
 
 > USE_VARIOUS_LENGTH_MODEL = True
 
-Set this parameter for enable the model to support various sequence length
+Set this parameter for enabling the model to support various sequence length
 
 Below is the tested results:
 
